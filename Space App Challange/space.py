@@ -1,4 +1,3 @@
-#A program to sort csv file
 import pandas as pd
 
 #importing database
