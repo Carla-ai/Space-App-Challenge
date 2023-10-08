@@ -1,0 +1,5 @@
+Software used:- dall-e-2
+
+
+Promt:- The oceans of planet covers a vast expanse, . There are a few large islands in this belt which due to its volcanic origin. Moreover, the presence of deep-sea hot springs from molten rock in the sea bed makes the ocean. The presence of volcanoes also indicates plate tectonics  Mountain ranges are mostly concentrated in the Northern hemisphere. The Southern hemisphere contains vast tracts of plains, majority of which are covered by snow throughout the year. There is more volcanic activity in the Northern hemisphere, therefore human beings settling on the numerous islands is the most logical step.
+Vegetation varies with change in latitude and can be differentiated  There is a lot of marshes swamps in the regions where the land meets the ocean. There is a network of rivers in the Northern Hemisphere, originating from the ice caps in the poles and draining out into the ocean
